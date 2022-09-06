@@ -1,4 +1,4 @@
-[MasterHead](https://i.im.ge/2022/07/24/FDSLip.jpg)
+![MasterHead](https://i.im.ge/2022/07/24/FDSLip.jpg)
 
 <h1 align="center">Hi 👋, I'm Nazmon Nahin</h1>
 <h3 align="center">I'm a Full Stack Developer</h3>
