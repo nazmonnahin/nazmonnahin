@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nazmonnahin" target="blank"><img src="https://img.shields.io/twitter/follow/nazmonnahin?logo=twitter&style=for-the-badge" alt="nazmonnahin" /></a> </p>
 
-- 🔭 I’m currently working on [Hospital Management](https://github.com/nazmonnahin/E-commerce)
+- 🔭 I’m currently working on [Hospital Management](https://github.com/nazmonnahin/E-commerce.git)
 
 - 🌱 I’m currently learning **React, vue**
 
