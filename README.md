@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [E-commerce](https://github.com/nazmonnahin/E-commerce.git)
 
-- 🌱 I’m currently learning **React **vue
+- 🌱 I’m currently learning **React, **vue
 
 - 💬 Ask me about **PHP, Laravel, html, css, javascript, wordpress**
 
